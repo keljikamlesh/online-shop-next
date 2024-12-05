@@ -1,0 +1,26 @@
+{
+  "name": "ecommerce-nextjs-project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 2003",
+    "build": "next build",
+    "start": "next start -p 2003",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "n": "^10.1.0",
+    "next": "^13.5.7",
+    "node": "^16.14.1",
+    "react": "^18",
+    "react-dom": "^18",
+    "swiper": "^11.1.14"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10",
+    "eslint": "^8",
+    "eslint-config-next": "13.5.7",
+    "postcss": "^8",
+    "tailwindcss": "^3"
+  }
+}
